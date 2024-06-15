@@ -1,0 +1,100 @@
+cause,effect,number_of_sources,support
+accident,death,1458,38
+disease,death,1344,37
+pneumonia,death,1185,37
+cancer,death,2446,36
+heart attack,death,1005,36
+illness,death,571,36
+stroke,death,1742,35
+complications,death,1166,35
+infection,death,735,35
+injuries,death,1143,34
+heart failure,death,876,34
+negligence,death,1045,34
+violence,death,306,34
+injury,death,863,33
+accident,injury,1481,32
+drought,famine,191,31
+injury,pain,701,31
+shock,death,284,31
+cardiac arrest,death,288,30
+disease,deaths,425,30
+heart disease,death,2453,30
+dehydration,death,277,30
+malnutrition,death,182,30
+stress,illness,398,30
+smoking,lung cancer,1690,30
+sin,death,1155,30
+negligence,injury,942,29
+war,death,388,29
+fall,death,174,29
+fire,death,171,29
+death,death,235,29
+stress,depression,560,29
+stress,insomnia,338,28
+depression,suicide,809,28
+old age,death,257,28
+paralysis,death,227,28
+diabetes,death,797,28
+smoking,cancer,1483,28
+anxiety,insomnia,242,27
+endometriosis,infertility,528,27
+diarrhea,dehydration,565,27
+suffocation,death,278,27
+aids,death,545,27
+respiratory failure,death,479,27
+obesity,diabetes,585,27
+bacteria,infection,1722,27
+stress,health problems,308,27
+accidents,death,964,27
+accident,injuries,770,27
+negligence,injuries,624,27
+exposure,disease,144,27
+tuberculosis,death,416,26
+overdose,death,285,26
+infection,inflammation,325,26
+stress,disease,309,26
+diseases,death,430,26
+heavy rains,flooding,303,26
+stress,headaches,309,26
+fire,damage,854,25
+suicide,death,2060,25
+starvation,death,228,25
+disease,pain,646,25
+accidents,deaths,275,25
+disease,disability,232,25
+infections,death,266,25
+stress,problems,287,25
+accidents,injuries,471,25
+inflammation,pain,1316,25
+injury,disability,248,25
+infection,disease,325,24
+bacteria,disease,994,24
+condition,symptoms,551,24
+bacteria,infections,5284,24
+heavy rain,flooding,135,24
+hypothermia,death,179,24
+global warming,climate change,317,24
+injuries,pain,296,24
+smoking,death,1539,24
+asbestos exposure,lung cancer,606,24
+condition,death,499,24
+poverty,crime,233,24
+drug,death,104,24
+pain,depression,258,24
+accidents,injury,317,24
+exposure,death,218,24
+illness,disability,103,24
+abuse,death,126,24
+osteoporosis,fractures,361,24
+arthritis,pain,2421,24
+human activity,global warming,858,23
+chemotherapy,hair loss,314,23
+earthquake,tsunami,428,23
+vaccines,autism,1032,23
+hpv,cervical cancer,666,23
+heavy rains,floods,217,23
+asphyxia,death,152,23
+storm,damage,235,23
+asbestos exposure,mesothelioma,469,23
+sepsis,death,140,23
