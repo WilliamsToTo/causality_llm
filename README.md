@@ -10,5 +10,5 @@ The datasets used for our experiments are stored in the `./data` folder. Please 
 - `search_causal_relation.py`: Manages the retrieval of queries related to causal discovery. For more details on the retrieval process, visit [WIMBD](https://github.com/allenai/wimbd).
 
 ## Model Fine-tuning
-We use the official OLMo implementation for fine-tuning the models on causal discovery tasks. The OLMo-7b-instruct model can be fine-tuned using the scripts and guidelines available at [OLMo GitHub Repository](https://github.com/allenai/open-instruct).
+We use the official OLMo implementation for fine-tuning the models on causal discovery tasks. The OLMo-7b-instruct model can be fine-tuned using the scripts and guidelines available at [here](https://github.com/allenai/open-instruct).
 
